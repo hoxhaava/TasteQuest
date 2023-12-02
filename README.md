@@ -16,10 +16,7 @@ Ensure your device meets the following requirements to run TasteQuest:
 ## Installation and Setup
 
 ### Step 1: Install Dependencies
-Navigate to the app's directory and install required packages:
-```bash
-cd react-native-yelp-restaurants
-npm install
+Navigate to the app's directory and install required npm packages.
 ```
 
 ### Step 2: Configure Yelp API Key
