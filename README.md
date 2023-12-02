@@ -17,7 +17,6 @@ Ensure your device meets the following requirements to run TasteQuest:
 
 ### Step 1: Install Dependencies
 Navigate to the app's directory and install required npm packages.
-```
 
 ### Step 2: Configure Yelp API Key
 1. Obtain a Yelp API Key from the Yelp Fusion API. Instructions available at [Yelp API Documentation](https://www.yelp.com/developers/documentation/v3/authentication).
